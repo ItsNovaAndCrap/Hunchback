@@ -7,4 +7,9 @@
 #include "Hunchback\EntryPoint.h"
 // ------------------------------------------------
 
-// Dependencies (empty for now)
+// ---------Logger---------------------------------
+#include "Hunchback\Log.h"
+// ------------------------------------------------
+
+// Dependencies
+#include "Dependencies.h"

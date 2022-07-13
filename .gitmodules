@@ -1,0 +1,3 @@
+[submodule "Hunchback/vendor/spdlog"]
+	path = Hunchback/vendor/spdlog
+	url = https://github.com/gabime/spdlog
