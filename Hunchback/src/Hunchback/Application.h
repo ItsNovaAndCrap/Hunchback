@@ -1,6 +1,7 @@
 #pragma once
 
 #include "Hunchback\Core.h"
+#include "Hunchback\Events\Event.h"
 
 namespace Hunchback {
 
